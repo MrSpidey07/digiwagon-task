@@ -38,7 +38,7 @@ A full-stack web application for product management with user authentication, bu
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/MrSpidey07/digiwagon-task.git
 cd DigiWagon-Task
 ```
 
@@ -132,9 +132,9 @@ The frontend will be running at `http://localhost:5173`
 
 After seeding the database, you can login with:
 
-| Role  | Email               | Password |
-| ----- | ------------------- | -------- |
-| Admin | admin@digiwagon.com | admin123 |
+| Role  | Email             | Password |
+| ----- | ----------------- | -------- |
+| Admin | admin@example.com | admin123 |
 
 New users can register through the application and will be assigned the "user" role by default.
 
